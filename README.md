@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **[Your Name]**
-- Email: [your.email@example.com]
+- Email: [williamchen014.email@example.com]
 - LinkedIn: [linkedin.com/in/yourprofile]
 - GitHub: [@yourusername]
 
