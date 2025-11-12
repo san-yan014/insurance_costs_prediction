@@ -1,0 +1,14 @@
+1. find ways to deal with high dimensional data 
+- PCA? how do i use PCA?
+	- i know that PCA1 or 2 or 3 is combination of features that shows the most impact? 
+
+2. I need to pick the most "important" features from the dataset. What exactly is my goal? 
+
+	- With that being said, I should write out the hypothesis and stuff and what I want out of this project and why. 
+	- I need to make sure I do it all on my own. At least I need to think of it. 
+
+3. Predicting the insurance cost 
+	- Linear Regression? 
+	- Ensemble method where I will use complicated models and decide which one is best 
+
+4. I will follow the pattern from the midterm format. 
